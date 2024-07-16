@@ -1,0 +1,206 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-07-11 11:01 EAT
+Nmap scan report for 192.168.88.1
+Host is up (0.0022s latency).
+MAC Address: 48:A9:8A:4F:86:7A (Unknown)
+Nmap scan report for 192.168.88.2
+Host is up (0.0022s latency).
+MAC Address: 60:D0:2C:17:82:D0 (Ruckus Wireless)
+Nmap scan report for 192.168.88.3
+Host is up (0.0034s latency).
+MAC Address: E4:38:83:5F:9E:3A (Ubiquiti Networks)
+Nmap scan report for 192.168.88.4
+Host is up (0.0034s latency).
+MAC Address: E4:38:83:56:9E:49 (Ubiquiti Networks)
+Nmap scan report for 192.168.88.5
+Host is up (0.0022s latency).
+MAC Address: E4:38:83:63:07:CD (Ubiquiti Networks)
+Nmap scan report for 192.168.88.16
+Host is up (0.0046s latency).
+MAC Address: 60:22:32:AE:82:35 (Ubiquiti Networks)
+Nmap scan report for 192.168.88.28
+Host is up (0.39s latency).
+MAC Address: CE:6B:6D:16:7D:EA (Unknown)
+Nmap scan report for 192.168.88.31
+Host is up (0.27s latency).
+MAC Address: 0C:54:15:6A:B0:12 (Intel Corporate)
+Nmap scan report for 192.168.88.32
+Host is up (0.049s latency).
+MAC Address: 00:BB:60:02:E5:5E (Intel Corporate)
+Nmap scan report for 192.168.88.39
+Host is up (0.055s latency).
+MAC Address: 0E:64:FC:72:CA:41 (Unknown)
+Nmap scan report for 192.168.88.46
+Host is up (0.26s latency).
+MAC Address: 1C:4D:70:E5:A7:5E (Intel Corporate)
+Nmap scan report for 192.168.88.48
+Host is up (0.13s latency).
+MAC Address: F8:5E:A0:B7:23:39 (Intel Corporate)
+Nmap scan report for 192.168.88.50
+Host is up (0.26s latency).
+MAC Address: E2:70:39:FF:91:5F (Unknown)
+Nmap scan report for 192.168.88.52
+Host is up (0.24s latency).
+MAC Address: D0:53:49:B0:02:50 (Liteon Technology)
+Nmap scan report for 192.168.88.57
+Host is up (0.39s latency).
+MAC Address: 5A:73:97:A5:17:54 (Unknown)
+Nmap scan report for 192.168.88.71
+Host is up (0.16s latency).
+MAC Address: BE:35:BF:C2:72:21 (Unknown)
+Nmap scan report for 192.168.88.73
+Host is up (0.17s latency).
+MAC Address: 36:B3:A1:A2:98:EE (Unknown)
+Nmap scan report for 192.168.88.74
+Host is up (0.39s latency).
+MAC Address: D6:20:F7:A9:98:F1 (Unknown)
+Nmap scan report for 192.168.88.81
+Host is up (0.16s latency).
+MAC Address: 3A:46:00:04:D1:DD (Unknown)
+Nmap scan report for 192.168.88.83
+Host is up (0.13s latency).
+MAC Address: E4:A7:A0:C8:A3:25 (Intel Corporate)
+Nmap scan report for 192.168.88.89
+Host is up (0.14s latency).
+MAC Address: A0:A8:CD:20:DE:06 (Intel Corporate)
+Nmap scan report for 192.168.88.98
+Host is up (0.39s latency).
+MAC Address: 56:A6:06:EF:B6:73 (Unknown)
+Nmap scan report for 192.168.88.99
+Host is up (0.10s latency).
+MAC Address: E2:29:EF:71:E1:6C (Unknown)
+Nmap scan report for 192.168.88.100
+Host is up (0.10s latency).
+MAC Address: 74:E5:F9:DF:A7:50 (Intel Corporate)
+Nmap scan report for 192.168.88.101
+Host is up (0.72s latency).
+MAC Address: 70:66:55:A6:08:29 (AzureWave Technology)
+Nmap scan report for 192.168.88.102
+Host is up.
+MAC Address: 2C:DB:07:2B:06:A6 (Intel Corporate)
+Nmap scan report for 192.168.88.105
+Host is up (0.068s latency).
+MAC Address: 10:68:38:AE:D2:91 (Unknown)
+Nmap scan report for 192.168.88.107
+Host is up (0.072s latency).
+MAC Address: 60:67:20:BC:EB:64 (Intel Corporate)
+Nmap scan report for 192.168.88.109
+Host is up (0.39s latency).
+MAC Address: 6C:88:14:80:D5:3C (Intel Corporate)
+Nmap scan report for 192.168.88.110
+Host is up (0.066s latency).
+MAC Address: 1E:A0:42:94:78:BB (Unknown)
+Nmap scan report for 192.168.88.111
+Host is up (0.066s latency).
+MAC Address: DC:FB:48:8C:A7:E9 (Intel Corporate)
+Nmap scan report for 192.168.88.112
+Host is up (0.063s latency).
+MAC Address: 3A:4A:ED:DD:2A:C7 (Unknown)
+Nmap scan report for 192.168.88.114
+Host is up (0.26s latency).
+MAC Address: CE:94:80:EA:2D:F7 (Unknown)
+Nmap scan report for 192.168.88.115
+Host is up (0.061s latency).
+MAC Address: DA:C4:E9:CF:B5:07 (Unknown)
+Nmap scan report for 192.168.88.117
+Host is up (0.061s latency).
+MAC Address: 88:52:EB:22:97:EE (Xiaomi Communications)
+Nmap scan report for 192.168.88.119
+Host is up (0.39s latency).
+MAC Address: D8:12:65:CF:86:FB (Chongqing Fugui Electronics)
+Nmap scan report for 192.168.88.124
+Host is up (0.19s latency).
+MAC Address: 94:E6:F7:74:A3:15 (Intel Corporate)
+Nmap scan report for 192.168.88.125
+Host is up (0.059s latency).
+MAC Address: 0C:DD:24:36:36:F2 (Intel Corporate)
+Nmap scan report for 192.168.88.131
+Host is up (0.13s latency).
+MAC Address: D4:25:8B:EA:62:2B (Intel Corporate)
+Nmap scan report for 192.168.88.133
+Host is up (0.39s latency).
+MAC Address: BA:C2:B5:1A:D2:93 (Unknown)
+Nmap scan report for 192.168.88.138
+Host is up (0.35s latency).
+MAC Address: 86:04:C1:56:0D:20 (Unknown)
+Nmap scan report for 192.168.88.141
+Host is up (0.33s latency).
+MAC Address: 2E:6B:E6:09:C3:B9 (Unknown)
+Nmap scan report for 192.168.88.142
+Host is up (0.35s latency).
+MAC Address: 9E:A6:55:C8:70:1B (Unknown)
+Nmap scan report for 192.168.88.143
+Host is up (0.11s latency).
+MAC Address: 48:51:B7:46:FC:AD (Intel Corporate)
+Nmap scan report for 192.168.88.144
+Host is up (0.35s latency).
+MAC Address: 80:19:34:0D:0A:1B (Intel Corporate)
+Nmap scan report for 192.168.88.147
+Host is up (0.35s latency).
+MAC Address: 5E:55:01:A8:74:5E (Unknown)
+Nmap scan report for 192.168.88.151
+Host is up (0.35s latency).
+MAC Address: AC:81:12:AE:EA:41 (Gemtek Technology)
+Nmap scan report for 192.168.88.157
+Host is up (0.35s latency).
+MAC Address: 04:D3:B0:48:27:13 (Intel Corporate)
+Nmap scan report for 192.168.88.160
+Host is up (0.35s latency).
+MAC Address: E2:1A:7F:6E:87:79 (Unknown)
+Nmap scan report for 192.168.88.163
+Host is up (0.35s latency).
+MAC Address: 94:65:9C:80:D2:5C (Intel Corporate)
+Nmap scan report for 192.168.88.171
+Host is up (0.35s latency).
+MAC Address: D0:C6:37:33:2E:3F (Intel Corporate)
+Nmap scan report for 192.168.88.174
+Host is up (0.35s latency).
+MAC Address: 80:00:0B:6B:7B:C3 (Intel Corporate)
+Nmap scan report for 192.168.88.177
+Host is up (0.26s latency).
+MAC Address: 76:BF:9F:E7:6F:70 (Unknown)
+Nmap scan report for 192.168.88.178
+Host is up (0.35s latency).
+MAC Address: 34:02:86:38:17:0B (Intel Corporate)
+Nmap scan report for 192.168.88.181
+Host is up (0.19s latency).
+MAC Address: 92:35:6C:C5:7F:35 (Unknown)
+Nmap scan report for 192.168.88.182
+Host is up (0.12s latency).
+MAC Address: 9C:5A:81:8C:FD:9B (Xiaomi Communications)
+Nmap scan report for 192.168.88.187
+Host is up (0.35s latency).
+MAC Address: 62:D4:D0:B8:B7:53 (Unknown)
+Nmap scan report for 192.168.88.192
+Host is up (0.26s latency).
+MAC Address: 38:DE:AD:41:D3:95 (Intel Corporate)
+Nmap scan report for 192.168.88.201
+Host is up (0.18s latency).
+MAC Address: B0:52:16:99:3E:0B (Hon Hai Precision Ind.)
+Nmap scan report for 192.168.88.204
+Host is up (0.34s latency).
+MAC Address: 7A:74:4C:5D:A4:56 (Unknown)
+Nmap scan report for 192.168.88.208
+Host is up (0.23s latency).
+MAC Address: 24:EE:9A:16:3B:22 (Intel Corporate)
+Nmap scan report for 192.168.88.209
+Host is up (0.15s latency).
+MAC Address: 04:ED:33:14:66:C6 (Intel Corporate)
+Nmap scan report for 192.168.88.216
+Host is up (0.23s latency).
+MAC Address: 58:94:6B:CD:BA:08 (Intel Corporate)
+Nmap scan report for 192.168.88.230
+Host is up (0.26s latency).
+MAC Address: 5C:87:9C:A8:D1:EE (Intel Corporate)
+Nmap scan report for 192.168.88.239
+Host is up (0.17s latency).
+MAC Address: 76:0C:A6:11:04:88 (Unknown)
+Nmap scan report for 192.168.88.242
+Host is up (0.34s latency).
+MAC Address: A0:A8:CD:49:31:A8 (Intel Corporate)
+Nmap scan report for 192.168.88.243
+Host is up (0.25s latency).
+MAC Address: 44:85:00:B8:37:88 (Intel Corporate)
+Nmap scan report for 192.168.88.247
+Host is up (0.40s latency).
+MAC Address: F4:06:69:5E:76:76 (Intel Corporate)
+Nmap done: 256 IP addresses (68 hosts up) scanned in 6.10 seconds
